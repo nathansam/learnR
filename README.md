@@ -6,8 +6,6 @@
   - [Survival analysis](#survival-analysis)
   - [Books](#books)
 
-
-
 ## About this repository
 
 This repository is a collection of material for learning R for data science.
