@@ -21,6 +21,7 @@ provided by others.
 ## Survival analysis
 
 * [How to perform survival analysis workshop material](https://github.com/nathansam/igmm-survival)
+* [Survival analysis in R](https://www.emilyzabor.com/survival-analysis-in-r.html)
 
 ## Books
 
@@ -29,3 +30,5 @@ The following books are available for free online and are highly recommended:
 * [R for Data Science](https://r4ds.hadley.nz/)
 * [Advanced R](https://adv-r.hadley.nz/)
 * [R packages](https://r-pkgs.org/)
+* [R for Health Data Science](https://argoshare.is.ed.ac.uk/healthyr_book/)
+* [R Markdown](https://bookdown.org/yihui/rmarkdown/)
